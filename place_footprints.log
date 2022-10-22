@@ -1,0 +1,56 @@
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'linux'
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.2 (default, Feb 28 2021, 17:03:44) \n[GCC 10.2.1 20210110]'
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: 6.0.5+dfsg-1~bpo11+1
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.3
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x7f508f03e700>
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R5 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R4 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R3 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R2 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R1 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW40 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW39 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW38 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW37 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW36 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW35 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW34 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW33 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW32 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW31 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW30 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW29 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW28 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW27 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW26 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW25 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW24 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW23 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW22 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW21 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW20 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW19 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW18 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW17 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW16 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW15 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW14 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW13 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW12 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW11 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW10 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW9 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW8 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW7 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW6 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW5 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW4 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW3 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW2 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW1 on root level
+09-11 22:23:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U1 on root level
+09-11 22:23:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 570:Reference designator is: SW
+09-11 22:23:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 571:Reference number is: 1
+09-11 22:23:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 603:Sorted and filtered list:
+['SW1', 'SW2', 'SW3', 'SW4', 'SW5', 'SW6', 'SW7', 'SW8', 'SW9', 'SW10', 'SW11', 'SW12', 'SW13', 'SW14', 'SW15', 'SW16', 'SW17', 'SW18', 'SW19', 'SW20', 'SW21', 'SW22', 'SW23', 'SW24', 'SW25', 'SW26', 'SW27', 'SW28', 'SW29', 'SW30', 'SW31', 'SW32', 'SW33', 'SW34', 'SW35', 'SW36', 'SW37', 'SW38', 'SW39', 'SW40']

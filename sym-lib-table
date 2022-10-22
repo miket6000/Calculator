@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "RPi_Pico")(type "Legacy")(uri "/home/mike/Projects/Kicad Libraries/Symbols/RPi_Pico.lib")(options "")(descr ""))
+)
