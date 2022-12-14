@@ -2825,9 +2825,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a4046ec9-c790-4603-bf9f-7aa65521b047)
   )
-  (text "R1/R2 = 8.6 for 12V rail\nR1 = 100k, R2 = 11.6k (Use 12k, V = 11.7V)\nR1 = 82k, R2 = 9.5k (use 10k, V = 11.5V)\nR1 = 68k, R2 = 7.9k (use 8k2, V = 11.6)\nR1 = 56k, R2 = 6.5k (use 6k8, V = 11.5)\n"
-    (at 133.35 213.36 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "R1/R2 = 8.6 for 12V rail\nR1 = 100k, R2 = 11.6k" (at 46.99 76.2 0)
+    (effects (font (size 1.27 1.27) italic) (justify left bottom))
     (uuid e53f4e88-c07a-4347-83d8-e67b37c6906c)
   )
   (text "KEYBOARD MATRIX\n" (at 351.79 22.86 0)
@@ -3213,7 +3212,7 @@
     (property "Reference" "R2" (id 0) (at 85.598 53.7753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 85.598 56.3122 0)
+    (property "Value" "11k6" (id 1) (at 85.598 56.3122 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 82.042 54.61 90)
@@ -4814,7 +4813,7 @@
       (reference "R1") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/0d66865d-1447-4a38-9305-fcc5f8933afd"
-      (reference "R2") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R2") (unit 1) (value "11k6") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/ac7ebae8-6efd-477d-b851-b9d006a5f04b"
       (reference "R3") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
